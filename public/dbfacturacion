@@ -1,0 +1,16 @@
+[
+    {
+        "infouser": {
+            "no-id": 1234,
+            "name": "",
+            "direccion": "",
+            "email": ""
+        },
+        "products": {
+            "papa": {},
+            "pepino": {},
+            "lechuga": {}
+        },
+        "sumary": {}
+    }
+]
