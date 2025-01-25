@@ -1,0 +1,3 @@
+body { background-color: #f4f4f4; }
+.product-item { cursor: pointer; }
+.remove-btn { cursor: pointer; color: red; }
